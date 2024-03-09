@@ -1,3 +1,4 @@
 #!/bin/bash
-#The echo commmand outputs inside the ""
+
+# The echo commmand outputs inside the "".
 echo "bashingskulls"
